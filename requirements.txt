@@ -1,0 +1,6 @@
+torch>=2.0
+torchvision
+numpy<2
+h5py
+scikit-learn
+ujson

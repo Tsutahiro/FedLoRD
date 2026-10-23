@@ -1,0 +1,12 @@
+# generated data partitions and raw downloads (keep the generator scripts only)
+dataset/*/
+!dataset/utils/
+# run outputs
+system/results/
+results/
+system/models/
+*.h5
+*_localtime.json
+# python
+__pycache__/
+*.pyc
